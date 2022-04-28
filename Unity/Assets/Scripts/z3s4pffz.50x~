@@ -1,0 +1,27 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Game : MonoBehaviour
+{
+    public GameObject ninjaStarMoveLeft;
+    public GameObject ninjsStarMoveRight;
+    public GameObject Spawn_TR;
+    public GameObject Spawn_MR;
+    public GameObject Spawn_BR;
+    public GameObject Spawn_TL;
+    public GameObject Spawn_ML;
+    public GameObject Spawn_BL;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        Instantiate(ninjaStarMoveLeft, Spawn_MR.position, );
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
