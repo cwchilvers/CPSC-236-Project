@@ -1,4 +1,4 @@
-# CPSC-236_FinalProject
+# CPSC-236: Final Project
 
 Final project for Visual Programming (Fall 2021)\
 \
