@@ -33,7 +33,9 @@ This project was developed for the Visual Programming class (CPS-236) at Chapman
 - Last player standing wins or game ends with a draw.
 
 ## Screenshots
-![BASSB](https://github.com/cwchilvers/Boll-a-Rall/assets/59628271/0086910d-a2cb-4413-9e6a-624785b11628)
+<p align="center">
+  <img src="https://github.com/cwchilvers/Boll-a-Rall/assets/59628271/0086910d-a2cb-4413-9e6a-624785b11628">
+</p>
 
 ## Credits
 - [Unity](https://unity.com/)
