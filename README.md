@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
-  <img src="https://img.shields.io/badge/License-CC0 1.0-lightgrey.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-CC0 1.0-lightgrey.svg?style=for-the-badge" alt="CC0 1.0 License">
 </p>
 
 <h4 align="center">A competitive 2-player dodge 'em game.</h4>
@@ -57,6 +57,6 @@ This project is licensed under the [Creative Commons Zero v1.0 Universal License
 ## Contact Information
 <h4 align="center">Chandler Chilvers:</h4>
 <p align="center">
-    <a href="mailto:cwchilvers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Unity"></a>
-    <a href="https://github.com/cwchilvers"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <a href="mailto:cwchilvers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/cwchilvers"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
