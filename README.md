@@ -19,7 +19,7 @@
 7. [Contact Information](#contact-information)
 
 ## Description
-This project was developed for the Visual Programming class (CPS-236) at Chapman University. The goal was to use the skills we acquired in class to create a 2D game using Unity. The main concept of the game was developed by Olivia Chilvers. Game mecahnics, such as changing weather conditions, were proposed by Ritu Venkatsubramani. Programming, sprites, tiles, UI, 8-bit SFX, and 8-bit remixes of popular songs were done by Chandler Chilvers.
+This project was developed for the Visual Programming class (CPSC-236) at Chapman University. The goal was to use the skills we acquired in class to create a 2D game using Unity. The main concept of the game was developed by Olivia Chilvers. Game mecahnics, such as changing weather conditions, were proposed by Ritu Venkatsubramani. Programming, sprites, tiles, UI, 8-bit SFX, and 8-bit remixes of popular songs were done by Chandler Chilvers.
 
 ## Installation
 1. Go to [Releases](https://github.com/cwchilvers/Bean-and-Sandie-Super-Buddies/releases) and download the `BASSB.zip` file.
