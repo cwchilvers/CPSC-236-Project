@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" alt="C#"> 
   <img src="https://img.shields.io/badge/License-CC0 1.0-lightgrey.svg?style=for-the-badge" alt="CC0 1.0 License">
 </p>
 
