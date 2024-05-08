@@ -41,6 +41,7 @@ This project was developed for the Visual Programming class (CPSC-236) at Chapma
 
 ## Technologies Used
 * [Unity](https://unity.com/)
+* C#
 
 ## Credits
 #### Fonts
