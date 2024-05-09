@@ -41,9 +41,12 @@ Try out the live web browser version [here](https://cpsc-236.cwchilvers.io).
 * Last player standing wins or game ends with a draw.
 
 ## Installation
+**Note: Windows only.**
+
 1. Go to [Releases](https://github.com/cwchilvers/Bean-and-Sandie-Super-Buddies/releases) and download the `BASSB.zip` file.
 2. Extract the contents of the zip file.
 3. Run the `BASSB.exe` file.
+
 
 ## Credits
 #### Fonts
