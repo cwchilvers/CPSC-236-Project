@@ -33,7 +33,7 @@ This project was developed for the Visual Programming class (CPSC-236) at Chapma
 * C#
 
 ## Usage
-Try out the live web browser version [here](https://uci-tcbc-02.cwchilvers.io).
+Try out the live web browser version [here](https://cpsc-236.cwchilvers.io).
 
 * Use WASD (player 1) and the arrow keys (player 2) to move and jump.
 * Dodge enemies.
