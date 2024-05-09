@@ -12,27 +12,16 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Screenshots](#screenshots)
-5. [Technologies Used](#technologies-used)
+2. [Screenshots](#screenshots)
+3. [Technologies Used](#technologies-used)
+4. [Usage](#usage)
+5. [Installation](#installation)
 6. [Credits](#credits)
 7. [Contact Information](#contact-information)
 8. [License](#license)
 
 ## Description
 This project was developed for the Visual Programming class (CPSC-236) at Chapman University. The goal was to use the skills we acquired in class to create a 2D game using Unity. The main concept of the game was developed by Olivia Chilvers. Game mecahnics, such as changing weather conditions, were proposed by Ritu Venkatsubramani. Programming, sprites, tiles, UI, 8-bit SFX, and 8-bit remixes of popular songs were done by Chandler Chilvers.
-
-## Installation
-1. Go to [Releases](https://github.com/cwchilvers/Bean-and-Sandie-Super-Buddies/releases) and download the `BASSB.zip` file.
-3. Extract the contents of the zip file
-4. Run the `BASSB.exe` file
-
-## Usage
-- Use WASD (player 1) and the arrow keys (player 2) to move and jump.
-- Dodge enemies.
-- Heal with fish (player 1) or bones (player 2).
-- Last player standing wins or game ends with a draw.
 
 ## Screenshots
 <p align="center">
@@ -42,6 +31,19 @@ This project was developed for the Visual Programming class (CPSC-236) at Chapma
 ## Technologies Used
 * [Unity](https://unity.com/)
 * C#
+
+## Usage
+Try out the live web browser version [here](https://uci-tcbc-02.cwchilvers.io).
+
+* Use WASD (player 1) and the arrow keys (player 2) to move and jump.
+* Dodge enemies.
+* Heal with fish (player 1) or bones (player 2).
+* Last player standing wins or game ends with a draw.
+
+## Installation
+1. Go to [Releases](https://github.com/cwchilvers/Bean-and-Sandie-Super-Buddies/releases) and download the `BASSB.zip` file.
+2. Extract the contents of the zip file.
+3. Run the `BASSB.exe` file.
 
 ## Credits
 #### Fonts
