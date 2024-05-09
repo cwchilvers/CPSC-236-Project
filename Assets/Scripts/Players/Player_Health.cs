@@ -12,8 +12,8 @@ public class Player_Health : MonoBehaviour
     public AudioClip playerHurt;
     public AudioClip healthUp;
     public SphereCollider playerCollider;
-    public SpriteRenderer playerIcon;
-    public SpriteRenderer playerHealth;
+    public Image playerIcon;
+    public Image playerHealth;
     public Text playerChances;
     public Transform playerWaitingBox;
     public Sprite playerDead;
@@ -32,7 +32,7 @@ public class Player_Health : MonoBehaviour
 
     #region Private Variables
     private bool _isFlickering = true;
-    
+
     private float _timer = 0;
     private string _chances_3 = "X3";
     private string _chances_2 = "X2";
@@ -214,7 +214,7 @@ public class Player_Health : MonoBehaviour
     }
     private void ResetVariables()
     {
-        _timer  = 0;
+        _timer = 0;
         health = 3;
         isWaitingForRespawn = false;
         player.GetComponent<Player_Move>().moveSpeed = 5;
@@ -224,5 +224,5 @@ public class Player_Health : MonoBehaviour
     {
         player.transform.position = new Vector3(-3.23f, 2.75f, 0.199998f);
     }
-#endregion
+    #endregion
 }
